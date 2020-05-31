@@ -1,6 +1,6 @@
 # vue-spa-system
 后台管理系统
-## npm install
+
 ## node index.js
 ## npm run dev 
 
